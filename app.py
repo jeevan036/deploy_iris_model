@@ -4,7 +4,7 @@ import pickle
 import numpy as np
 from sklearn.datasets import load_iris
 
-#deploy
+#deployed in classroom
 
 # Load model
 with open("model.pkl", "rb") as f:
